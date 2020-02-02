@@ -1,5 +1,4 @@
-describe 'Shoe' do
-  describe 'BRANDS' do
+
 class Shoe
   attr_accessor :color, :size, :material, :condition
   attr_reader :brand
